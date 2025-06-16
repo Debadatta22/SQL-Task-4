@@ -1,0 +1,1 @@
+SELECT * FROM internship_task4.students;
